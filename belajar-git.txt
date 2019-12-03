@@ -2,3 +2,4 @@ hallo saya belajar git !
 ini baris kedua
 ini aku
 dimanakah file tiga
+ini perubahan di file yang sama
