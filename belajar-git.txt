@@ -1,4 +1,8 @@
 hallo saya belajar git !
 ini baris kedua
+<<<<<<< HEAD
 ini baris ketiga menambahkan commit di github
 ini aku
+=======
+ini baris ketiga menambah commit di github
+>>>>>>> d1c71b331c085e62e0cc86604df4bf3672b29501
