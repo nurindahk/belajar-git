@@ -1,3 +1,4 @@
 hallo saya belajar git !
 ini baris kedua
 ini baris ketiga menambahkan commit di github
+ini aku
